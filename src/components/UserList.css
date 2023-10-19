@@ -1,0 +1,30 @@
+.user-list-container {
+max-width: 400px;
+margin: 0 auto;
+padding: 20px;
+background-color: #f4f4f4;
+border: 1px solid #ddd;
+border-radius: 4px;
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.user-list-title {
+font-size: 24px;
+margin-bottom: 16px;
+}
+
+.user-list-item {
+background-color: #fff;
+border: 1px solid #ddd;
+border-radius: 4px;
+padding: 16px;
+margin: 8px 0;
+}
+
+.user-list-item p {
+margin: 8px 0;
+}
+
+.user-list-item p strong {
+font-weight: 600;
+}
