@@ -2,10 +2,10 @@
 max-width: 400px;
 margin: 0 auto;
 padding: 20px;
-background-color: #f4f4f4;
+background-color: #5f5e5e;
 border: 1px solid #ddd;
 border-radius: 4px;
-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+box-shadow: 0 2px 4px rgba(27, 1, 1, 0.651);
 }
 
 .user-list-title {
